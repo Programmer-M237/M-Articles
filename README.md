@@ -29,8 +29,8 @@ The publication is not confined to a single field. Articles may cover:
 
 | Title | Description |
 |-------|-------------|
-| [Compression 1](./Technology/Compression_1.docx) | A deep dive into ZIP, RAR, 7-Zip, CAB, and WIM — the compression formats running silently under your digital life. |
-| [Open the Format, Sell the Tools](./Technology/Open_the_Format_Sell_the_Tools.docx) | Coming soon |
+| [Compression 1](./Technology/Compression_1.pdf) | A deep dive into ZIP, RAR, 7-Zip, CAB, and WIM — the compression formats running silently under your digital life. |
+| [Open the Format, Sell the Tools](./Techpreneurship/Open_the_Format_Sell_the_Tools.pdf) | Coming soon |
 
 ### Other
 
