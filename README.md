@@ -36,7 +36,7 @@ The publication is not confined to a single field. Articles may cover:
 
 | Title | Description |
 |-------|-------------|
-| [Infinite World](./Other/Infinite_World.docx) | Coming soon |
+| Infinite World | Coming soon |
 
 ---
 
